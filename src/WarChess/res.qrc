@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/1.png</file>
+        <file>picture/2.png</file>
+        <file>picture/4.png</file>
+        <file>picture/5.png</file>
+        <file>picture/6.png</file>
+        <file>picture/7.png</file>
+        <file>picture/8.png</file>
+        <file>picture/9.png</file>
+        <file>picture/10.png</file>
+        <file>picture/11.png</file>
+        <file>picture/mymusic.mp3</file>
+        <file>picture/attack.m4a</file>
+        <file>picture/beattack.m4a</file>
+        <file>picture/gameover.m4a</file>
+        <file>picture/win.m4a</file>
+        <file>picture/create.m4a</file>
+        <file>picture/12.png</file>
+        <file>picture/13.png</file>
+        <file>picture/14.png</file>
+        <file>picture/3.png</file>
+        <file>picture/die.m4a</file>
+        <file>picture/rest.m4a</file>
+        <file>picture/lastone.m4a</file>
+        <file>picture/attack2.m4a</file>
+        <file>picture/antiattack.m4a</file>
+        <file>picture/15.png</file>
+        <file>picture/16.png</file>
+    </qresource>
+</RCC>
